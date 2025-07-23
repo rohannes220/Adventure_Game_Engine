@@ -60,12 +60,7 @@ The game engine allows players to explore rooms, interact with puzzles and items
 2. Run the `Main` class in `src/`.
 3. Save files will be created and stored in `src/resources/`.
 
----
 
-## **Diagrams & Documentation**
-
-* High-level design diagrams are available in `/Diagrams`.
-* Required `.jar` files are provided in `/Library`.
 
 
 
